@@ -5,7 +5,7 @@
 
 # Tech Stack 
 
-**Client:** React
+**Client:** React, Context API
 **Server:** Node, Express, Axios, Mongoose
 **Database:** MongoDB
 
